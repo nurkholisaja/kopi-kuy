@@ -59,7 +59,7 @@ nav {
    background-color: red;
 
    /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
-   background-color: #2190e0;
+   background-color: #781717;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -441,7 +441,7 @@ iframe {
 /* FOOTER */
 
 footer {
-   background-color: #2190e0;
+   background-color: #781717;
    padding-top: 15px;
    padding-bottom: 25px;
    color: #fff;
